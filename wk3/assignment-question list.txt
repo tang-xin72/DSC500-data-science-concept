@@ -1,0 +1,14 @@
+0. which attribute of the data is related to solve this porblem. 
+1. how many historical data I can have to do the analysis
+2. how much data is enough to analysis this problem and provide solution
+3. how much budget there is to do this analysis
+4. who is the SME (subject matter expert) if we need to understand the business environment
+5. who is the decision maker and stake holder? 
+6. what kind of product this is (text, numerical?) and where is the data
+7. Do we need to search for outside data or just internal data provided
+8. what the data result will be used for?
+9. how do you measure the revenue improvement?
+10. who can access the data? can we share data from outside helper or third party (like an data expert) 
+11.had data been given been validated? or do we need to validate the data?
+12.how do you want the result be presented?
+13. what data model applied to this set of data?

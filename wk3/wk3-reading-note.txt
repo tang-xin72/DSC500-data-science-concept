@@ -1,0 +1,51 @@
+Data science handbook chapt13:
+In some companies and in some roles, being a data scientist means to be a
+software engineer, building machine learning models in the back end. 
+In this role, your success is very measurable--it is usually the accuracy
+or precision/recall of your model performance. At other companies or in 
+other roles, being a data scientist means that you’re an analyst working 
+with engineers to help them determine what features to build and how users
+are interacting with them. In this role, your success is less measurable
+
+Some requests we get involve translating from qualitative problems to 
+quantitative ones (identifying good proxy metrics to reach the right 
+conclusion), statistics (doing the calculation on the data), and 
+communication (presenting the data in a digestible manner).
+
+let the computer do what it does best (crunch models, calculate metrics, etc.
+) and let the humans do what they do best (interpret patterns and 
+meaning, make accountable decisions, especially with respect to the rights
+and wellbeing of other humans)
+
+when people request data science, they really just want magic. don’t 
+actually know what they want.
+
+Data scientist have to think about problems, both as an engineer and also
+as a statistician. You have to know what tests are right, how to approach
+the problem, how to engineer the solution and how to sift through large 
+datasets.
+
+
+Skill needed:
+1.Predictive Modeling: here, algorithms and some complex mathematical 
+modeling are required. Visualizations are probably not as heavily emphasized.
+2. Business Intelligence: here you engage frequently with SQL and some
+scripting, but you don’t need great skills in computations and algorithms.
+3. This is a spot in the middle: this is more science-y and R&D. Here you
+want to ask much deeper questions about user behavior. You want to model 
+user interactions and apply computational algorithms to gain business 
+insights. This is a mesh between two extremes. You need some computational
+background, and some aspects of communication, etc
+
+Coursera course by Andrew Ng is popular
+
+Data science for business
+classification, regression and causal modeling ->supervised method
+clustering, co-occurence grouping and profile ->unsupervised
+similarity match, link prediction and data reduction =>both
+
+regression: numberic target value
+classification: binary target (including probability group)
+
+ 
+ 

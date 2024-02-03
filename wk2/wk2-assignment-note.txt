@@ -1,0 +1,23 @@
+Is the first born the natural leaders
+
+world top 15 countries leaders since 1970
+https://www.visualcapitalist.com/visualized-world-leaders-in-positions-of-power/
+
+US News ranking of most influencial countries
+https://www.usnews.com/news/best-countries/rankings/a-leader
+
+
+world leader approval rate
+https://morningconsult.com/global-leader-approval/
+
+Top 50 leaders
+https://fortune.com/worlds-greatest-leaders/
+
+strategies:
+1. download the countries leaders name (top20)
+2. maybe fortunate 500 company CEO name (top 20)
+3. compile list
+4. find out their sibling
+5. mark if they are eldest
+6. draw conclusion
+

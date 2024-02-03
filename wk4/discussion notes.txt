@@ -1,0 +1,18 @@
+option1: Where is the ethical line on the use of data? Should organizations be allowed to use your data without your permission? What if you are using a free app? Discuss ethics in data science using some of the recent events that we hear about in the media
+case of Julian Assange of wiki leak.should have some common rules over national interest
+
+Option2:
+What ethical responsibilities do we feel Social Media companies have as they present information to us
+social media should classfy which data/info they will publish and which should be prohibited before accepting the post. also they should agree with each others on the same standard.
+
+Option3
+Is it ethical that search engine data is collected and provided publicly? What is the risk if the data was not anonymized.
+It can be publicly published, but should get consentation from resource. also data science is to seek pattern, not against individual.
+
+Option5
+research an example where an organization crossed an ethical boundary and was fined or found guilty
+Kenneth Lay, Enron
+Ernest Young cheating on CPA ethics exam.
+
+Option 7
+What is bias? How does technology have bias?
